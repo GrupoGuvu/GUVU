@@ -11,7 +11,7 @@
 	<?php require 'views/header.php'; ?>
 
 	<div id="main">
-		<h1 class="center">Bienvenido a Ayuda</h1>
+		<h1 class="center">Bienvenido aa Ayuda</h1>
 	</div>
 
 	<?php require 'views/footer.php'; ?>
